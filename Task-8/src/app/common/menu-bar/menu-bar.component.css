@@ -11,6 +11,7 @@ span{
     width:100%;
     display:flex;
     margin-left: 39%;
+    font-style: italic ;
 }
 a{
     background-color: #23badf;
